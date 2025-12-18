@@ -9,4 +9,6 @@ int power( int value, unsigned int pow );
 
 void permuter(int * a, int * b);
 
+int estPremier(int n);
+
 #endif
